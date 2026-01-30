@@ -1,9 +1,4 @@
-# Hi, I'm Leonardo Solís 👋
-### iOS Developer | SwiftUI & Offline-First Architect
 
-I am a results-driven iOS Developer focused on building robust, high-performance applications with **SwiftUI**. Focusing on performance, concurrency, and privacy-first architectures.
-
----
 
 ## 🚀 Featured Projects
 
@@ -44,8 +39,8 @@ I am a results-driven iOS Developer focused on building robust, high-performance
 
 ## 🛠 Tech Stack
 - **Languages:** Swift (5.9 / 6), SQL.
-- **Frameworks:** SwiftUI, UIKit, SwiftData, Core Data, Combine.
-- **Tools:** Firebase, Git, Postman, Xcode, Multipeer Connectivity, Vision Framework.
+- **Frameworks:** SwiftUI, UIKit, SwiftData, Core Data, Combine, Vision Framework, Multipeer Connectivity.
+- **Tools:** Firebase, Git, Postman, Xcode.
 
 ---
 
